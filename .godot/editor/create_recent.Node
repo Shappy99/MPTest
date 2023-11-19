@@ -1,0 +1,7 @@
+CollisionShape2D
+StaticBody2D
+Sprite2D
+MultiplayerSynchronizer
+MultiplayerSpawner
+Button
+CharacterBody2D
